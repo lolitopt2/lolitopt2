@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Melo</h1>
 <h3 align="center">A student from software development , currently trying to find his way through C#</h3>
 
-- 🌱 I’m currently learning **C# , MYSQL**
+- 🌱 I’m currently learning **C# , MYSQL , SCRUM , DEBIAN , WS**
 
 - 📫 How to reach me **pedro2002melo@gmail.com**
 
